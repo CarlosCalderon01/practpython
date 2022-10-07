@@ -28,6 +28,6 @@ else:
 # Ctrl + / ----> comenta todo lo subrayado
 # Tipos de condicionales { <, >, <=, >=, !=, ==, ===, ||, &&}
 # Type {if, ellif, else}
-#Siempre despues de poner dos puntos y hacer un salto de linea debemos hacer un tad sangria
+#Siempre despues de poner dos puntos y hacer un salto de linea debemos debemos hacer un tad sangria
 
 #//-----//-----//-----//-----//-----//-----//-----//-----//
