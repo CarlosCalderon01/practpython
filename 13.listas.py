@@ -6,3 +6,20 @@
 
 #objetos.pop(1) borrar el elemento 1, no la posicion si no el valor
 
+numeros = [1,2,3,4,5]
+
+numeros2 = [6,7,8,9]
+
+lista_final = numeros + numeros2
+
+print(lista_final)
+
+mi_tupla = (1,2,3,4,5)
+#las listas son objetos dinamicos que se pueden editar, mutables
+#las tuplas son objetos staticos Note: no se pueden agregar elementos, ni quitar,  son inmutables.
+
+for numeros in mi_tupla:
+    print(numeros)
+
+
+
