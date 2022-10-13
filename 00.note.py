@@ -35,11 +35,11 @@
 
 #//--------------------//Funciones//--------------------//
 
-input("entradas")
-int(input("entrada convertida a entero"))
+# input("entradas")
+# int(input("entrada convertida a entero"))
 
-def namefuncion(variables):
-    print(variables)
+# def namefuncion(variables):
+#     print(variables)
 
 #//--------------------//CLICLOS//--------------------//
 
@@ -58,9 +58,9 @@ def namefuncion(variables):
 
 #//-----//-----//-----//-----//-----//-----//-----//
 # imprime todos los datos  del 1 al 101
-def funcion_for2():
-    for i in range (1, 10):
-        print(11 * i)
+# def funcion_for2():
+#     for i in range (1, 10):
+#         print(11 * i)
 
 #//-----//-----//-----//-----//-----//-----//-----//
 
@@ -77,8 +77,24 @@ def funcion_for2():
 
 #Siempre es de buena practicar utilizar esta funcion.
 
+def run():
+    valor = 10 / 2 + 5 * 7
+    print(valor)
+
 if __name__ == '__main__':
-    pass
+    run ()
 
 
 #//-----//-----//-----//-----//-----//-----//-----//-----//
+
+# Lo aprendido en el curso básico de Python
+# Operadores aritméticos, lógicos y de comparación
+# Variables y constantes
+# Funciones y parámetros
+# Condicionales
+# Ciclos, break y continue
+# Estructuras de datos
+# Es tu momento de seguir aprendiendo y desarrollando tu perfil como programador de Python.
+
+# Aporte creado por: Aaron Quiroga
+

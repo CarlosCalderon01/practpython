@@ -6,6 +6,21 @@
 
 #objetos.pop(1) borrar el elemento 1, no la posicion si no el valor
 
+# Métodos adicionales para listas
+# .sorted()
+# También ordena como sort() pero modifica la lista inicial
+# .clear()
+# Vacía la lista
+# .count()
+# Cuenta las veces que esta un elemento en lista
+# .index()
+# Indica la posición donde esta un elemento de la lista
+# .insert()
+# Inserta un elemento en una posición dada ej: lista.insert(posición,item)
+# .reverse()
+# Le da la vuelta a una lista
+
+
 numeros = [1,2,3,4,5]
 
 numeros2 = [6,7,8,9]
